@@ -5,13 +5,13 @@
   <b> 𝗗𝗮𝗮𝗻𝗶 𝗗𝗶𝗗𝗶 𝐁𝐎𝐓</b>
 </h1>
 
-[![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/MrMKN/PROFESSOR-BOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/MrMKN/PROFESSOR-BOT?style=flat-square&color=orange)](https://github.com/MrMKN/PROFESSOR-BOT/fork)
-[![Size](https://img.shields.io/github/repo-size/MrMKN/PROFESSOR-BOT?style=flat-square&color=green)](https://github.com/FilmyFather/Daaaaanii)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MrMKN/PROFESSOR-BOT)   
-[![Contributors](https://img.shields.io/github/contributors/MrMKN/PROFESSOR-BOT?style=flat-square&color=green)](https://github.com/MrMKN/PROFESSOR-BOT/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MrMKN/PROFESSOR-BOT/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/MrMKN/PROFESSOR-BOT.svg)](https://stars.medv.io/MrMKN/PROFESSOR-BOT)
+[![Stars](https://img.shields.io/github/stars/FilmyFather/Daaaaanii-?style=flat-square&color=red)](https://github.com/FilmyFather/Daaaaanii-/stargazers)
+[![Forks](https://img.shields.io/github/forks/FilmyFather/Daaaaanii-?style=flat-square&color=indigo)](https://github.com/FilmyFather/Daaaaanii-/fork)
+[![Size](https://img.shields.io/github/repo-size/FilmyFather/Daaaaanii-?style=flat-square&color=pink)](https://github.com/FilmyFather/Daaaaanii)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/FilmyFather/Daaaaanii-)   
+[![Contributors](https://img.shields.io/github/contributors/FilmyFather/Daaaaanii-?style=flat-square&color=blue)](https://github.com/FilmyFather/Daaaaanii-/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/FilmyFather/Daaaaanii-/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/FilmyFather/Daaaaanii-.svg)](https://stars.medv.io/FilmyFather/Daaaaanii-)
 
 <details>
 <summary><b>Features</b></summary>
